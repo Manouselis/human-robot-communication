@@ -1,1 +1,7 @@
-# human-robot-communication
+# BO THE BOX: AN EXPERIMENTAL SOCIAL GAMING ROBOT
+**Goal**: In this project, you are tasked to design a robot that uses both verbal and non-verbal communication. This brings additional challenges in that you will need to address the timing of the non-verbal and verbal acts. Furthermore, the modalities that you use need to be congruent in the intent they express. You may also enhance the communication by implementing social signal behaviours such as backchanneling, eye contact, or showing affect. This way, the communication takes a step to the transactional model of communication. For the interaction, you can either develop a new interaction or improve and extend the interaction you developed for challenge 1 or 2.
+
+**Implementation**: This repository presents both the fundamental theory needed to design a multimodal social robot and an experimental design for a robot that can play a rock/paper/scissors game. The key elements that need to be considered are the motivation for the application as well as the behavioral goals of the robot, namely, its purpose, communication modes and the emotions one wants to elicit from the human participants. A qualitative study with three participants was performed in order to evaluate our design. Lastly, future improvements of the robot are proposed regarding its software, hardware, interaction and inclusivity.
+
+#### Notes
+1. This is an experimental application developed as part of the course "Human Robot Communication", that took place in the Robotics Master of University of Twente in 2022.
