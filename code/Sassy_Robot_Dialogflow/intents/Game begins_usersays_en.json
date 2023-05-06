@@ -1,0 +1,287 @@
+[
+  {
+    "id": "10bc49ef-5b67-46f0-8ef9-6a088658e7fe",
+    "data": [
+      {
+        "text": "rematch",
+        "meta": "@Game-Initialization",
+        "alias": "Game-Initialization",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c985b3e-74d7-4ed3-b9aa-4a94186799a2",
+    "data": [
+      {
+        "text": "match",
+        "meta": "@Game-Initialization",
+        "alias": "Game-Initialization",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8748b858-ecff-46b7-9460-4f558a0075eb",
+    "data": [
+      {
+        "text": "play",
+        "meta": "@Game-Initialization",
+        "alias": "Game-Initialization",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04b69477-8551-41b3-b7e7-0fde18f64243",
+    "data": [
+      {
+        "text": "start",
+        "meta": "@Game-Initialization",
+        "alias": "Game-Initialization",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "100a5df9-74ee-430e-bd5d-61b9e414c216",
+    "data": [
+      {
+        "text": "Again",
+        "meta": "@Game-Initialization",
+        "alias": "Game-Initialization",
+        "userDefined": true
+      },
+      {
+        "text": " please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6357311-d07c-4ea1-bb49-26330e7a4e13",
+    "data": [
+      {
+        "text": "Rematch",
+        "meta": "@Game-Initialization",
+        "alias": "Game-Initialization",
+        "userDefined": true
+      },
+      {
+        "text": " please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4536c001-b3cc-4359-91d9-9951dd1f8ca0",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "play again",
+        "meta": "@Game-Initialization",
+        "alias": "Game-Initialization",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9355949c-d5fc-425b-b7c9-2a1b265e1872",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "play some more",
+        "meta": "@Game-Initialization",
+        "alias": "Game-Initialization",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df426cc4-e69c-4916-b237-5f4700b2b4c2",
+    "data": [
+      {
+        "text": "Rock, paper, scissors",
+        "meta": "@Game-Initialization",
+        "alias": "Game-Initialization",
+        "userDefined": true
+      },
+      {
+        "text": " please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b535fbe-719a-4e22-a28c-abcc61fd3a2c",
+    "data": [
+      {
+        "text": "Another ",
+        "userDefined": false
+      },
+      {
+        "text": "game",
+        "meta": "@Game-Initialization",
+        "alias": "Game-Initialization",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c65adf9-e346-4931-99ee-1af5187beaec",
+    "data": [
+      {
+        "text": "Let\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "play",
+        "meta": "@Game-Initialization",
+        "alias": "Game-Initialization",
+        "userDefined": true
+      },
+      {
+        "text": " again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7d9c45c-4ec8-4c4e-b45f-92d2c62b450c",
+    "data": [
+      {
+        "text": "Do your job, lets ",
+        "userDefined": false
+      },
+      {
+        "text": "play",
+        "meta": "@Game-Initialization",
+        "alias": "Game-Initialization",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd42aba1-9067-4f39-b3b1-c52e41938f83",
+    "data": [
+      {
+        "text": "Let\u0027s play some ",
+        "userDefined": false
+      },
+      {
+        "text": "rock, papers, scissors.",
+        "meta": "@Game-Initialization",
+        "alias": "Game-Initialization",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89c3a0e5-6734-4ab1-b9de-885ffe144b30",
+    "data": [
+      {
+        "text": "Start the ",
+        "userDefined": false
+      },
+      {
+        "text": "game",
+        "meta": "@Game-Initialization",
+        "alias": "Game-Initialization",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9288120e-dcf5-4f90-9c52-0be46ba10c27",
+    "data": [
+      {
+        "text": "Let\u0027s play a ",
+        "userDefined": false
+      },
+      {
+        "text": "game",
+        "meta": "@Game-Initialization",
+        "alias": "Game-Initialization",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

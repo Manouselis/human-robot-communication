@@ -1,0 +1,56 @@
+{
+  "id": "beaa60de-b40c-49d3-bc17-bd43c6c41974",
+  "parentId": "4fb5a276-e449-4b5b-8392-3f1bbec8b4c2",
+  "rootParentId": "4fb5a276-e449-4b5b-8392-3f1bbec8b4c2",
+  "name": "Game begins - Human-Choice",
+  "auto": true,
+  "contexts": [
+    "Gamebegins-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Gamebegins.Gamebegins-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a1dd754c-da59-4d1b-9486-b7a96a250cf6",
+          "name": "human-choice",
+          "required": true,
+          "dataType": "@Human-Choice",
+          "value": "$human-choice",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "That was easy. Next time try playing something other than $human-choice. What do you want to do now?",
+            "Ouch, you beat me with $human-choice.original. I hope no-one is keeping score. What do you want to do now?",
+            "Hmm, a tie. What do you want to do now?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

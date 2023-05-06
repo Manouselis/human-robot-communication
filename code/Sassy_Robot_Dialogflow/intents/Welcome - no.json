@@ -1,0 +1,39 @@
+{
+  "id": "bcaca8be-f5e1-4660-8e1f-8c1c6a35f7fc",
+  "parentId": "feb9845f-af7b-4b97-9424-f8d2bb88c774",
+  "rootParentId": "feb9845f-af7b-4b97-9424-f8d2bb88c774",
+  "name": "Welcome - no",
+  "auto": true,
+  "contexts": [
+    "Welcome-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Welcome.Welcome-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I only speak to gamers. Go away. Kidding. What do you want to do? (goaway)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

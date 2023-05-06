@@ -1,0 +1,137 @@
+[
+  {
+    "id": "0b2beb3b-83bf-465c-8a39-404048c0d276",
+    "data": [
+      {
+        "text": "Scissor",
+        "meta": "@Human-Choice",
+        "alias": "human-choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d4065df-0051-4cab-9248-77089e49a07a",
+    "data": [
+      {
+        "text": "Scissors",
+        "meta": "@Human-Choice",
+        "alias": "human-choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6df358fd-d3cf-432e-8617-893a5c7f397b",
+    "data": [
+      {
+        "text": "Papers",
+        "meta": "@Human-Choice",
+        "alias": "human-choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ef09a02-e729-4cb4-acf8-a15f6532a03b",
+    "data": [
+      {
+        "text": "Papier",
+        "meta": "@Human-Choice",
+        "alias": "human-choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10a24093-9e8c-42b6-a5ea-9691c294404a",
+    "data": [
+      {
+        "text": "Paper",
+        "meta": "@Human-Choice",
+        "alias": "human-choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6462a24-99a0-4511-8f36-be0b42f3170f",
+    "data": [
+      {
+        "text": "Rocks",
+        "meta": "@Human-Choice",
+        "alias": "human-choice",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53f93312-b982-4921-9e05-4e30a21ce1b4",
+    "data": [
+      {
+        "text": "Roc",
+        "meta": "@Human-Choice",
+        "alias": "human-choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39ad4891-f49d-435b-8b40-b73de3241fb8",
+    "data": [
+      {
+        "text": "Rok",
+        "meta": "@Human-Choice",
+        "alias": "human-choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46eaef41-88a1-482a-bcdc-c05e22a70186",
+    "data": [
+      {
+        "text": "Rock",
+        "meta": "@Human-Choice",
+        "alias": "human-choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "64b953b1-329d-49a0-9533-e1edbb03222e",
+    "data": [
+      {
+        "text": "Rock",
+        "meta": "@Human-Choice",
+        "alias": "human-choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34bc4044-7e00-4e8d-a49b-d0bdbd71fbb9",
+    "data": [
+      {
+        "text": "Scissors",
+        "meta": "@Human-Choice",
+        "alias": "human-choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "809f9649-c73e-491d-82af-84b299ef3841",
+    "data": [
+      {
+        "text": "Rocks",
+        "meta": "@Human-Choice",
+        "alias": "human-choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f23011e-29e5-4615-9d73-4087566ac33b",
+    "data": [
+      {
+        "text": "Papers",
+        "meta": "@Human-Choice",
+        "alias": "human-choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8096d7f8-4481-4164-b436-10ae791a2674",
+    "data": [
+      {
+        "text": "Scissor",
+        "meta": "@Human-Choice",
+        "alias": "human-choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aad38890-e11c-415e-8ae8-d28fc81a56f0",
+    "data": [
+      {
+        "text": "Papiers",
+        "meta": "@Human-Choice",
+        "alias": "human-choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9693beb0-ca41-4414-8a34-ed844887e081",
+    "data": [
+      {
+        "text": "Rok",
+        "meta": "@Human-Choice",
+        "alias": "human-choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "806d0b78-1997-452d-9531-284f45bdfdab",
+    "data": [
+      {
+        "text": "Roc",
+        "meta": "@Human-Choice",
+        "alias": "human-choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b01a189d-80c4-4f0d-a9c5-b8a757fde6b0",
+    "data": [
+      {
+        "text": "Paper",
+        "meta": "@Human-Choice",
+        "alias": "human-choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

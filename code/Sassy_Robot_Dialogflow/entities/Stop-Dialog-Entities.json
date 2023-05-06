@@ -1,0 +1,9 @@
+{
+  "id": "98256630-d580-401b-ae50-ba714fa4ac6c",
+  "name": "Stop-Dialog-Entities",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

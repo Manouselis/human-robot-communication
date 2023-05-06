@@ -1,0 +1,59 @@
+[
+  {
+    "value": "Stop",
+    "synonyms": [
+      "Stop",
+      "Quit",
+      "Leave",
+      "Bored"
+    ]
+  },
+  {
+    "value": "Bike",
+    "synonyms": [
+      "Bike",
+      "Motorcycle",
+      "Car",
+      "Electric bike",
+      "Scooter"
+    ]
+  },
+  {
+    "value": "Office",
+    "synonyms": [
+      "Office",
+      "Class",
+      "Toilet",
+      "Building",
+      "Parking",
+      "Parking lot",
+      "Park",
+      "Lake",
+      "Home",
+      "House",
+      "Residence"
+    ]
+  },
+  {
+    "value": "Coffee",
+    "synonyms": [
+      "Coffee",
+      "Drink",
+      "Snack",
+      "Sandwich",
+      "Food",
+      "Eat"
+    ]
+  },
+  {
+    "value": "Not Play",
+    "synonyms": [
+      "Not Play",
+      "Quit",
+      "Stop",
+      "Leave",
+      "Nothing",
+      "End game"
+    ]
+  }
+]

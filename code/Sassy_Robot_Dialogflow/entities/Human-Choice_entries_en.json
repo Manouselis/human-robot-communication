@@ -1,0 +1,28 @@
+[
+  {
+    "value": "Rock",
+    "synonyms": [
+      "Rock",
+      "Rocks",
+      "Roc",
+      "Rok",
+      "Brock",
+      "Brooke"
+    ]
+  },
+  {
+    "value": "Paper",
+    "synonyms": [
+      "Paper",
+      "Papers",
+      "Papiers"
+    ]
+  },
+  {
+    "value": "Scissors",
+    "synonyms": [
+      "Scissors",
+      "Scissor"
+    ]
+  }
+]

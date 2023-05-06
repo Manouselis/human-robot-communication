@@ -1,0 +1,56 @@
+{
+  "id": "4a92f40d-4dbf-4dce-8074-200712db261b",
+  "name": "Dialog-ends",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Dialog-ends-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "558408c5-1d70-47a2-9341-1a1b80f8ea6e",
+          "name": "Stop-Dialog-Entities",
+          "required": true,
+          "dataType": "@Stop-Dialog-Entities",
+          "value": "$Stop-Dialog-Entities",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It was a pleasure playing with you, have a nice day. (goodbye)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

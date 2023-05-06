@@ -1,0 +1,9 @@
+{
+  "id": "cb6bb1fd-caae-4be1-90cd-b43e355de644",
+  "name": "Human-Choice",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

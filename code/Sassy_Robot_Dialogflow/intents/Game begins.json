@@ -1,0 +1,55 @@
+{
+  "id": "4fb5a276-e449-4b5b-8392-3f1bbec8b4c2",
+  "name": "Game begins",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Gamebegins-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9ccc2c13-db34-4b41-b2e0-b8d0210b8bae",
+          "name": "Game-Initialization",
+          "required": true,
+          "dataType": "@Game-Initialization",
+          "value": "$Game-Initialization",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Let\u0027s go. 3. 2. 1. ROCK (make choice random here). (countdown)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "744ab77f-6406-4ed8-b457-f315a4a328ac",
+  "name": "Game-Initialization",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

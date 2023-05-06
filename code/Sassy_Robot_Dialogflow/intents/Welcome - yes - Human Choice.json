@@ -1,0 +1,56 @@
+{
+  "id": "25622cbf-0823-4a34-a5f3-e7742eef8e25",
+  "parentId": "1feaeadf-b145-4554-97ce-630c4d38dd71",
+  "rootParentId": "feb9845f-af7b-4b97-9424-f8d2bb88c774",
+  "name": "Welcome - yes - Human Choice",
+  "auto": true,
+  "contexts": [
+    "Welcome-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Welcome.Welcome-yes.Welcome-yes-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f3f06cda-4c3d-407b-bdad-d34b8c4ea35c",
+          "name": "human-choice",
+          "required": true,
+          "dataType": "@Human-Choice",
+          "value": "$human-choice",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "That was easy. Next time try playing something other than $human-choice. What do you want to do now? (robotwins)",
+            "Ouch, you beat me with $human-choice. I hope no-one is keeping score. What do you want to do now? (robotlose)",
+            "Hmm, a tie. What do you want to do now? (robottie)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,421 @@
+[
+  {
+    "id": "2f46d525-38da-4f1d-942c-ed6f7fe1f22f",
+    "data": [
+      {
+        "text": "vamos",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "488df337-d64a-4522-b79f-caffddde7933",
+    "data": [
+      {
+        "text": "doei",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0628a561-b4c0-4b29-8352-5eaa8eeefb92",
+    "data": [
+      {
+        "text": "ciau",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fafe3490-0f9e-4c46-861b-de91b386d0e9",
+    "data": [
+      {
+        "text": "ciao",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd1fa596-abdc-47e5-8363-0a6563b17561",
+    "data": [
+      {
+        "text": "good-",
+        "userDefined": false
+      },
+      {
+        "text": "bye",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6db1c00-9ab0-486e-a7e9-138a88396868",
+    "data": [
+      {
+        "text": "See you",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7be5ade5-ab36-4a3d-9713-01c981c7bb19",
+    "data": [
+      {
+        "text": "Goodbye",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41bcce11-01f4-4a3f-b6c2-5dddc7de673d",
+    "data": [
+      {
+        "text": "bye",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0bd43c3-96ca-445b-8f93-437bcc838744",
+    "data": [
+      {
+        "text": "End",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19c35329-1e7f-453f-9c09-433e274c08dd",
+    "data": [
+      {
+        "text": "End game",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "955e3dbc-9c73-47e6-9b63-134128c9a33d",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "quit",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3023e540-28c8-4261-80fe-ee44d8102e15",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "don\u0027t",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": true
+      },
+      {
+        "text": " want to play",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6894128b-426b-44f8-ae1b-565c0d00e532",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "stop",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": false
+      },
+      {
+        "text": " playing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3eedfb6-d79e-4b00-acae-7db02943e5f8",
+    "data": [
+      {
+        "text": "I\u0027ll ",
+        "userDefined": false
+      },
+      {
+        "text": "stop",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "playing",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6564d91f-42df-48f1-81cc-cb5ee1c95220",
+    "data": [
+      {
+        "text": "I\u0027ll go get my ",
+        "userDefined": false
+      },
+      {
+        "text": "bike",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24fecc9f-cc44-4d68-8e3a-3296eb65f1cc",
+    "data": [
+      {
+        "text": "I\u0027ll leave for my ",
+        "userDefined": false
+      },
+      {
+        "text": "office",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79425a49-08ce-4431-a2de-dae771b20a30",
+    "data": [
+      {
+        "text": "I\u0027m gonna grab a ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b517a16a-b58c-41b6-9080-fd9704612e8f",
+    "data": [
+      {
+        "text": "I have to go to ",
+        "userDefined": false
+      },
+      {
+        "text": "class",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": true
+      },
+      {
+        "text": " now.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "766d0030-a1bf-4462-8a3a-778fe31a1f38",
+    "data": [
+      {
+        "text": "I\u0027m gonna go to the ",
+        "userDefined": false
+      },
+      {
+        "text": "toilet",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c62f2988-281e-4ad4-b116-d3185e972ae8",
+    "data": [
+      {
+        "text": "I want to go ",
+        "userDefined": false
+      },
+      {
+        "text": "eat",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2db9561d-f8bd-400b-8e5a-dcd22e81c102",
+    "data": [
+      {
+        "text": "I think I want to go ",
+        "userDefined": false
+      },
+      {
+        "text": "home",
+        "meta": "@Stop-Dialog-Entities",
+        "alias": "Stop-Dialog-Entities",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

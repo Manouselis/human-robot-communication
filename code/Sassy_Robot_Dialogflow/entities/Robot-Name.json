@@ -1,0 +1,9 @@
+{
+  "id": "dee0b2b4-aaf9-4f3f-9d7a-b44f345bd1c0",
+  "name": "Robot-Name",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

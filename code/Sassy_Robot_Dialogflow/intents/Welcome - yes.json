@@ -1,0 +1,44 @@
+{
+  "id": "1feaeadf-b145-4554-97ce-630c4d38dd71",
+  "parentId": "feb9845f-af7b-4b97-9424-f8d2bb88c774",
+  "rootParentId": "feb9845f-af7b-4b97-9424-f8d2bb88c774",
+  "name": "Welcome - yes",
+  "auto": true,
+  "contexts": [
+    "Welcome-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Welcome.Welcome-yes",
+      "affectedContexts": [
+        {
+          "name": "Welcome-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, here are some ground rules. We will count down from 3 together and then each of us will shout it\u0027s choice.   You can also see my choice on my chest. Let\u0027s go. 3. 2. 1. ROCK (groundrules_countdown)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

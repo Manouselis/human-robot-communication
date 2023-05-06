@@ -1,0 +1,62 @@
+{
+  "id": "945565a4-b191-4d51-9458-b874b305a2ea",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [
+    "Introduction-yes-followup",
+    "Welcome-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [
+        {
+          "name": "DefaultFallbackIntent-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "Introduction-yes-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "Welcome-yes-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I didn\u0027t get that. Can you say it again?",
+            "I missed what you said. What was that?",
+            "Sorry, could you say that again?",
+            "Sorry, can you say that again?",
+            "Can you say that again?",
+            "Sorry, I didn\u0027t get that. Can you rephrase?",
+            "Sorry, what was that?",
+            "One more time?",
+            "What was that?",
+            "Say that one more time?",
+            "I didn\u0027t get that. Can you repeat?",
+            "I missed that, say that again?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
